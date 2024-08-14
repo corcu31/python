@@ -10,9 +10,9 @@ from email.mime.text import MIMEText
 import schedule
 import time
 # poner los correo que participan en este proceso como el sender(envia) y el receiver (recibe) la contraseña es parte del smtp de gmail
-sender_email = "xtomura31@gmail.com"
+sender_email = "personwhosends@gmail.com"
 sender_pasword = "qeqk yjrn cbkd gzjx"
-receiver_email = "stephanoherrera4444@gmail.com"
+receiver_email = "personwhoreceives@gmail.com"
 # perzonaliacion del mensaje subject el tema o asunto del mensaje y body el cuerpo del mensaje
 subject = "test del email"
 body = "este email es una prueba del codigo de python sin tiempo programado "
